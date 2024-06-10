@@ -4,7 +4,7 @@
 <b><p align="center">💻 Tᴇᴄʜ Sᴛᴀᴄᴋ</p></b>
 <p align="center"><img 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Railway](https://img.shields.io/badge/railway-%23430098.svg?style=for-the-badge&logo=railway&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 <div align="center">
 <b><p align="center">📊 GɪᴛHᴜʙ Sᴛᴀᴛs</p></b>
@@ -21,4 +21,4 @@
 <div align="center">
 <b><p align="center"><b>☎️ Cᴏɴᴛᴀᴄᴛ Mᴇ</p></b>
 
-[![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?logo=Telegram&logoColor=white)](https://telegram.me/DARKL0RD_99) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/61550232132439) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maity.speaking_) 
+[![Telegram](https://img.shields.io/badge/Telegram-%231877F2.svg?logo=Telegram&logoColor=white)](https://telegram.me/DARKL0RD_TG) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maity.speaking_) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/61550232132439)  
