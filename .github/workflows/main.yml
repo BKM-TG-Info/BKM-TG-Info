@@ -7,5 +7,5 @@ jobs:
 
       - name: Use GIT_TOKEN
         env:
-          GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
+          GIT_TOKEN: ${{ secrets.GIT_TOKEN }}
         run: echo "Using GIT_TOKEN"
