@@ -1,7 +1,7 @@
 <img align="center" alt="Coder GIF" width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"></img>
 
-<div align="center">
-  <b><u><p align="center">💻 Tech Stack</p></b></u>
+<div align="center"> style="text-decoration: underline;">
+  <b><p align="center">💻 Tech Stack</p></b>
   <p align="center">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     <img src="https://img.shields.io/badge/koyeb-%430098.svg?style=for-the-badge&logo=koyeb&logoColor=430098">
