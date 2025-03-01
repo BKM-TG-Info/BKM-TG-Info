@@ -1,6 +1,6 @@
 <img align="center" alt="Coder GIF" width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"></img>
 
-<div align="center"> style="underline">
+<div align="center"> style="underline;">
   <b><p align="center">💻 Tech Stack</p></b>
   <p align="center">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
