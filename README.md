@@ -1,6 +1,6 @@
 <img align="center" alt="Coder GIF" width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"></img>
 
-<div align="center"> style="underline;">
+<div align="center">
   <b><p align="center">💻 Tech Stack</p></b>
   <p align="center">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <u><b><p align="center">📊 GitHub Stats</p></b></u>
+  <b><p align="center">📊 GitHub Stats</p></b>
   <p align="center">
     <img src="https://github-stats-alpha.vercel.app/api/?username=BKM-TG-Info&cc=000&tc=00ff00&ic=fff000&include_all_commits=true&bc=fff" align="center">
   </p>
@@ -23,7 +23,7 @@
 </div>
 
 <div align="center">
-  <u><b><p align="center">☎️ Contact Me</p></b></u>
+  <b><p align="center">☎️ Contact Me</p></b>
   <p align="center">
     <a href="https://telegram.me/DARKL0RD_TG"><img src="https://img.shields.io/badge/Telegram-%231877F2.svg?logo=Telegram&logoColor=white"></a>
     <a href="https://instagram.com/maity.speaking_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
